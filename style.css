@@ -1,0 +1,48 @@
+.page{
+   border: 3px solid #f6f2f6;
+  
+    background: linear-gradient(45deg, #eaddea, #e00202ca);
+    color: #fff0aa;
+    font-size: 100%;
+    cursor: pointer;
+    box-shadow: 0 0 15px #fecb02, 0 0 30px #ff9900, 0 0 50px #ddd8dd; margin-top:30%; margin-top:30%; margin-top:30%;
+    text-align: center;
+    height: 500px;
+     transition: all 0.3s ease;margin-top: 5%;
+      margin-top:30%;
+      
+
+
+}
+html{
+    background-color: rgb(0, 0, 0);
+}
+.one{
+    margin: 150px;
+    border: 3px solid #9f279f;
+    background: linear-gradient(45deg, #ff44ff, #ff9900);
+    color: #fff0aa;
+    height: 200px;
+    box-shadow: 0px 0px 150px;
+
+}
+#hi{
+    color: black;
+    box-shadow: 0px 0px 100px  white;
+
+}
+#butt{
+    border: 3px solid #ffff33;
+    border-radius: 5%;
+    background: linear-gradient(45deg, #ffaa33, #ffff33);
+    color: #331a00;
+    font-size: 150%;
+    cursor: pointer;
+    box-shadow: 0 0 15px #ffaa33, 0 0 30px #ffff33, 0 0 50px #00ffff;
+    transition: all 0.3s ease;margin-top: 5%;
+}
+.buttonss{
+     box-shadow: 0 0 15px #ffaa33, 0 0 30px #ffff33, 0 0 50px #00ffff;
+     
+
+}
